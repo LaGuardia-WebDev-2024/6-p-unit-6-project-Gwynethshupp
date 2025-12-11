@@ -13,12 +13,16 @@ void draw(){
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
   
 ellipse(240,100,100,100);
-triangle(700,200,600,300,120,100);
-arc(220,150,150,300,radians(3),radians(90))
+triangle(119,79,189,119,187,99);
+arc(210,100,150,300,radians(3),radians(90))
 ellipse(228,87,20,20);
 rotate(.3)
-ellipse(240,190,100,200);
+ellipse(240,170,100,200);
 rotate(-.3)
+arc(200,150,150,300,radians(3),radians(90))
+triangle(82,350,129,312,108,365)
+triangle(108,375,142,324,137,372)
+ellipse(177,383,100,150)
 }
 
 //🟡Extra FUN Features Ms. Hall Added
